@@ -19,7 +19,7 @@
             "last_commit": "2026-07-20T11:41:31Z",
             "owner": "marp-team",
             "repo": "marp-cli",
-            "stars": 3756
+            "stars": 3760
           }
         },
         {
@@ -66,7 +66,7 @@
                 "last_commit": "2026-07-29T19:35:44Z",
                 "owner": "marp-team",
                 "repo": "marp",
-                "stars": 12359
+                "stars": 12362
               }
             },
             {
@@ -112,10 +112,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-14T14:28:33Z",
+            "last_commit": "2026-08-15T14:25:50Z",
             "owner": "growilabs",
             "repo": "growi",
-            "stars": 1463
+            "stars": 1464
           }
         },
         {
@@ -393,7 +393,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T15:07:59.969Z",
+    "last_updated": "2026-08-15T14:39:33.546Z",
     "original_repository": "marp-team/awesome-marp",
     "original_repository_sha": "25dde80d5d45f18bb6eb347d916b982057370258",
     "enhanced_repository": "enhansome/enhansome-marp",
