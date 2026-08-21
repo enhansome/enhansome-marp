@@ -67,7 +67,7 @@
                     "last_commit": "2026-07-29T19:35:44Z",
                     "owner": "marp-team",
                     "repo": "marp",
-                    "stars": 12380
+                    "stars": 12388
                   }
                 }
               ]
@@ -110,7 +110,7 @@
                 "archived": false,
                 "id": 82206054,
                 "language": "TypeScript",
-                "last_commit": "2026-08-20T12:53:56Z",
+                "last_commit": "2026-08-21T11:46:11Z",
                 "owner": "growilabs",
                 "repo": "growi",
                 "stars": 1464
@@ -183,7 +183,7 @@
                 "archived": false,
                 "id": 695369062,
                 "language": "HTML",
-                "last_commit": "2024-05-29T03:33:22Z",
+                "last_commit": "2026-08-21T10:22:20Z",
                 "owner": "favourhong",
                 "repo": "Awesome-Marp",
                 "stars": 1035
@@ -435,7 +435,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T14:55:35.871Z",
+    "last_updated": "2026-08-21T14:54:00.625Z",
     "original_repository": "marp-team/awesome-marp",
     "original_repository_id": 755915543,
     "original_repository_sha": "25dde80d5d45f18bb6eb347d916b982057370258",
