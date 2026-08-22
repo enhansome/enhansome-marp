@@ -17,7 +17,7 @@
                 "last_commit": "2026-07-20T11:41:31Z",
                 "owner": "marp-team",
                 "repo": "marp-cli",
-                "stars": 3772
+                "stars": 3773
               }
             },
             {
@@ -32,7 +32,7 @@
                 "last_commit": "2026-08-11T11:46:03Z",
                 "owner": "marp-team",
                 "repo": "marp-vscode",
-                "stars": 2077
+                "stars": 2078
               }
             },
             {
@@ -67,7 +67,7 @@
                     "last_commit": "2026-07-29T19:35:44Z",
                     "owner": "marp-team",
                     "repo": "marp",
-                    "stars": 12388
+                    "stars": 12393
                   }
                 }
               ]
@@ -128,7 +128,7 @@
                 "last_commit": "2026-04-11T12:11:25Z",
                 "owner": "samuele-cozzi",
                 "repo": "obsidian-marp-slides",
-                "stars": 264
+                "stars": 265
               }
             },
             {
@@ -186,7 +186,7 @@
                 "last_commit": "2026-08-21T10:22:20Z",
                 "owner": "favourhong",
                 "repo": "Awesome-Marp",
-                "stars": 1035
+                "stars": 1037
               }
             },
             {
@@ -246,7 +246,7 @@
                 "last_commit": "2026-03-06T21:28:06Z",
                 "owner": "mikael-ros",
                 "repo": "neobeam",
-                "stars": 101
+                "stars": 102
               }
             },
             {
@@ -435,7 +435,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T14:54:00.625Z",
+    "last_updated": "2026-08-22T14:38:48.576Z",
     "original_repository": "marp-team/awesome-marp",
     "original_repository_id": 755915543,
     "original_repository_sha": "25dde80d5d45f18bb6eb347d916b982057370258",
