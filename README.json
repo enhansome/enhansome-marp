@@ -17,7 +17,7 @@
                 "last_commit": "2026-07-20T11:41:31Z",
                 "owner": "marp-team",
                 "repo": "marp-cli",
-                "stars": 3773
+                "stars": 3775
               }
             },
             {
@@ -47,7 +47,7 @@
                 "last_commit": "2026-08-09T18:30:27Z",
                 "owner": "marp-team",
                 "repo": "marp-core",
-                "stars": 1142
+                "stars": 1143
               }
             },
             {
@@ -67,7 +67,7 @@
                     "last_commit": "2026-07-29T19:35:44Z",
                     "owner": "marp-team",
                     "repo": "marp",
-                    "stars": 12393
+                    "stars": 12397
                   }
                 }
               ]
@@ -186,7 +186,7 @@
                 "last_commit": "2026-08-21T10:22:20Z",
                 "owner": "favourhong",
                 "repo": "Awesome-Marp",
-                "stars": 1037
+                "stars": 1039
               }
             },
             {
@@ -216,7 +216,7 @@
                 "last_commit": "2026-07-23T14:10:43Z",
                 "owner": "cunhapaulo",
                 "repo": "marpstyle",
-                "stars": 205
+                "stars": 206
               }
             },
             {
@@ -435,7 +435,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T14:38:48.576Z",
+    "last_updated": "2026-08-23T14:40:44.876Z",
     "original_repository": "marp-team/awesome-marp",
     "original_repository_id": 755915543,
     "original_repository_sha": "25dde80d5d45f18bb6eb347d916b982057370258",
