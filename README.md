@@ -32,11 +32,11 @@ A curated list of awesome things related to [Marp].
 
 ### Official
 
-* [Marp CLI](https://github.com/marp-team/marp-cli) ⭐ 3,783 | 🐛 19 | 🌐 TypeScript | 📅 2026-07-20 - A CLI interface for Marp and Marpit-based converters.
+* [Marp CLI](https://github.com/marp-team/marp-cli) ⭐ 3,784 | 🐛 19 | 🌐 TypeScript | 📅 2026-07-20 - A CLI interface for Marp and Marpit-based converters.
 * [Marp for VS Code](https://github.com/marp-team/marp-vscode) ⭐ 2,079 | 🐛 12 | 🌐 TypeScript | 📅 2026-08-11 - An extension of Marp for [Visual Studio Code](https://code.visualstudio.com/).
-* [Marp Core](https://github.com/marp-team/marp-core) ⭐ 1,146 | 🐛 8 | 🌐 TypeScript | 📅 2026-08-09 - The core library of Marp, based on Marpit framework.
+* [Marp Core](https://github.com/marp-team/marp-core) ⭐ 1,147 | 🐛 8 | 🌐 TypeScript | 📅 2026-08-09 - The core library of Marp, based on Marpit framework.
 * [Marp] - The entrance website of Marp ecosystem.
-  * [GitHub](https://github.com/marp-team/marp) ⭐ 12,416 | 🐛 1 | 🌐 TypeScript | 📅 2026-07-29 - The GitHub repository of Marp website.
+  * [GitHub](https://github.com/marp-team/marp) ⭐ 12,417 | 🐛 1 | 🌐 TypeScript | 📅 2026-07-29 - The GitHub repository of Marp website.
   * [GitHub Discussions](https://github.com/orgs/marp-team/discussions) - The discussion forum about Marp ecosystem.
 * [Marpit framework](https://marpit.marp.app) - The skinny framework to create slides from Markdown.
   * [GitHub](https://github.com/marp-team/marpit) ⭐ 1,369 | 🐛 19 | 🌐 JavaScript | 📅 2026-08-03 - The GitHub repository of Marpit framework.
@@ -44,7 +44,7 @@ A curated list of awesome things related to [Marp].
 
 ### Community
 
-* [GROWI](https://github.com/weseek/growi/) ⭐ 1,464 | 🐛 87 | 🌐 TypeScript | 📅 2026-08-27 - Markdown collaboration software including [Marp support](https://docs.growi.org/en/guide/features/presentation.html#what-are-growi-slide-and-marp-slide).
+* [GROWI](https://github.com/weseek/growi/) ⭐ 1,464 | 🐛 82 | 🌐 TypeScript | 📅 2026-08-27 - Markdown collaboration software including [Marp support](https://docs.growi.org/en/guide/features/presentation.html#what-are-growi-slide-and-marp-slide).
 * [Marp Slides for Obsidian](https://github.com/samuele-cozzi/obsidian-marp-slides) ⭐ 265 | 🐛 33 | 🌐 CSS | 📅 2026-04-11 - A plugin for [Obsidian](https://obsidian.md/).
 * [Obsidian Marp Plugin](https://github.com/JichouP/obsidian-marp-plugin) ⭐ 178 | 🐛 26 | 🌐 TypeScript | 📅 2025-04-01 - Yet another plugin for Obsidian.
 * [marpyter](https://github.com/trungleduc/marpyter) ⭐ 31 | 🐛 0 | 🌐 TypeScript | 📅 2025-09-16 - An extension for [JupyterLab](https://jupyter.org/).
@@ -52,7 +52,7 @@ A curated list of awesome things related to [Marp].
 
 ## Themes
 
-* [Marp Core built-in themes](https://github.com/marp-team/marp-core/blob/main/themes/README.md) ⭐ 1,146 | 🐛 8 | 🌐 TypeScript | 📅 2026-08-09 - A documentation for Marp Core built-in themes.
+* [Marp Core built-in themes](https://github.com/marp-team/marp-core/blob/main/themes/README.md) ⭐ 1,147 | 🐛 8 | 🌐 TypeScript | 📅 2026-08-09 - A documentation for Marp Core built-in themes.
 * [Marp Community Themes](https://rnd195.github.io/marp-community-themes/) - A curation site of Marp themes.
 * [Marp Template Library](https://yoanbernabeu.github.io/MARP-Template-Library/) - Yet another curation site of Marp themes.
 
@@ -77,7 +77,7 @@ A curated list of awesome things related to [Marp].
 
 > Plugins can be used with Marpit framework, Marp Core, and Marp CLI.
 
-* [markdown-it plugins (npm)](https://www.npmjs.com/search?q=keywords:markdown-it-plugin) - A list of published [markdown-it](https://github.com/markdown-it/markdown-it) ⭐ 21,852 | 🐛 7 | 🌐 TypeScript | 📅 2026-08-26 plugins. (may compatible with Marp)
+* [markdown-it plugins (npm)](https://www.npmjs.com/search?q=keywords:markdown-it-plugin) - A list of published [markdown-it](https://github.com/markdown-it/markdown-it) ⭐ 21,854 | 🐛 7 | 🌐 TypeScript | 📅 2026-08-27 plugins. (may compatible with Marp)
 * [Marp plugins (npm)](https://www.npmjs.com/search?q=keywords:marp-plugin) - A list of published as the Marp plugin. (npm packages with `marp-plugin` keyword)
 
 <!--
