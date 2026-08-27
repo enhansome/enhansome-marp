@@ -17,7 +17,7 @@
                 "last_commit": "2026-07-20T11:41:31Z",
                 "owner": "marp-team",
                 "repo": "marp-cli",
-                "stars": 3782
+                "stars": 3783
               }
             },
             {
@@ -67,7 +67,7 @@
                     "last_commit": "2026-07-29T19:35:44Z",
                     "owner": "marp-team",
                     "repo": "marp",
-                    "stars": 12409
+                    "stars": 12416
                   }
                 }
               ]
@@ -110,7 +110,7 @@
                 "archived": false,
                 "id": 82206054,
                 "language": "TypeScript",
-                "last_commit": "2026-08-26T15:36:17Z",
+                "last_commit": "2026-08-27T11:49:50Z",
                 "owner": "growilabs",
                 "repo": "growi",
                 "stars": 1464
@@ -276,7 +276,7 @@
                 "last_commit": "2021-09-05T12:24:06Z",
                 "owner": "eyssette",
                 "repo": "teaching-theme-for-marp",
-                "stars": 40
+                "stars": 41
               }
             },
             {
@@ -362,7 +362,7 @@
             "last_commit": "2026-08-26T11:24:05Z",
             "owner": "markdown-it",
             "repo": "markdown-it",
-            "stars": 21849
+            "stars": 21852
           }
         },
         {
@@ -480,9 +480,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T15:53:16.127Z",
-    "original_repository": "marp-team/awesome-marp",
-    "original_repository_id": 755915543,
+    "last_updated": "2026-08-27T11:51:10.654Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 755915543,
+      "language": null,
+      "last_commit": "2026-04-25T00:14:21Z",
+      "owner": "marp-team",
+      "repo": "awesome-marp",
+      "stars": 511
+    },
     "original_repository_sha": "25dde80d5d45f18bb6eb347d916b982057370258",
     "enhanced_repository": "enhansome/enhansome-marp",
     "enhanced_repository_description": null,
