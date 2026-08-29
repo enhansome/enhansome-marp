@@ -12,12 +12,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A CLI interface for Marp and Marpit based converters",
+                "homepage": null,
                 "id": 144130157,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-07-20T11:41:31Z",
+                "open_issues": 19,
                 "owner": "marp-team",
                 "repo": "marp-cli",
-                "stars": 3785
+                "stars": 3785,
+                "topics": [
+                  "cli",
+                  "deck",
+                  "markdown",
+                  "marp",
+                  "marpit",
+                  "presentation",
+                  "slides"
+                ]
               },
               "first_seen": "2026-08-28T23:33:21.082Z"
             },
@@ -28,12 +41,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Marp for VS Code: Create slide deck written in Marp Markdown on VS Code",
+                "homepage": "https://marketplace.visualstudio.com/items?itemName=marp-team.marp-vscode",
                 "id": 168885746,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-11T11:46:03Z",
+                "open_issues": 12,
                 "owner": "marp-team",
                 "repo": "marp-vscode",
-                "stars": 2079
+                "stars": 2079,
+                "topics": [
+                  "markdown",
+                  "marp",
+                  "visual-studio-code",
+                  "vscode",
+                  "vscode-extension"
+                ]
               },
               "first_seen": "2026-08-28T23:33:21.082Z"
             },
@@ -44,12 +68,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The core of Marp converter",
+                "homepage": null,
                 "id": 136200010,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-09T18:30:27Z",
+                "open_issues": 8,
                 "owner": "marp-team",
                 "repo": "marp-core",
-                "stars": 1148
+                "stars": 1148,
+                "topics": [
+                  "deck",
+                  "markdown",
+                  "marp",
+                  "presentation",
+                  "slides"
+                ]
               },
               "first_seen": "2026-08-28T23:33:21.082Z"
             },
@@ -65,12 +100,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "The entrance repository of Markdown presentation ecosystem",
+                    "homepage": "https://marp.app/",
                     "id": 126696700,
                     "language": "TypeScript",
+                    "license": "MIT",
                     "last_commit": "2026-07-29T19:35:44Z",
+                    "open_issues": 1,
                     "owner": "marp-team",
                     "repo": "marp",
-                    "stars": 12420
+                    "stars": 12420,
+                    "topics": [
+                      "deck",
+                      "markdown",
+                      "marp",
+                      "presentation",
+                      "slides"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:33:21.082Z"
                 }
@@ -88,12 +134,25 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "The skinny framework for creating slide deck from Markdown",
+                    "homepage": "https://marpit.marp.app/",
                     "id": 125661750,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2026-08-03T22:29:49Z",
+                    "open_issues": 19,
                     "owner": "marp-team",
                     "repo": "marpit",
-                    "stars": 1369
+                    "stars": 1369,
+                    "topics": [
+                      "deck",
+                      "framework",
+                      "markdown",
+                      "marp",
+                      "marpit",
+                      "presentation",
+                      "slides"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:33:21.082Z"
                 }
@@ -113,12 +172,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":anchor: GROWI - Team collaboration software using markdown",
+                "homepage": "https://growi.org",
                 "id": 82206054,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-28T21:37:29Z",
+                "open_issues": 83,
                 "owner": "growilabs",
                 "repo": "growi",
-                "stars": 1464
+                "stars": 1464,
+                "topics": [
+                  "ai",
+                  "docker",
+                  "growi",
+                  "javascript",
+                  "markdown-editor",
+                  "nodejs",
+                  "react",
+                  "typescript",
+                  "wiki",
+                  "wiki-engine"
+                ]
               },
               "first_seen": "2026-08-28T23:33:21.082Z"
             },
@@ -129,12 +204,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Create markdown-based Marp presentations in Obsidian ",
+                "homepage": null,
                 "id": 603767083,
                 "language": "CSS",
+                "license": "MIT",
                 "last_commit": "2026-04-11T12:11:25Z",
+                "open_issues": 33,
                 "owner": "samuele-cozzi",
                 "repo": "obsidian-marp-slides",
-                "stars": 265
+                "stars": 265,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:33:21.082Z"
             },
@@ -145,12 +225,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Plugin to use Marp with Obsidian",
+                "homepage": null,
                 "id": 605213823,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2025-04-01T21:46:32Z",
+                "open_issues": 26,
                 "owner": "JichouP",
                 "repo": "obsidian-marp-plugin",
-                "stars": 178
+                "stars": 178,
+                "topics": [
+                  "obsidian-md",
+                  "obsidian-plugin",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-28T23:33:21.082Z"
             },
@@ -161,12 +250,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "marpyter - Marp for JupyterLab",
+                "homepage": null,
                 "id": 636669334,
                 "language": "TypeScript",
+                "license": "BSD-3-Clause",
                 "last_commit": "2025-09-16T13:01:25Z",
+                "open_issues": 0,
                 "owner": "trungleduc",
                 "repo": "marpyter",
-                "stars": 31
+                "stars": 31,
+                "topics": [
+                  "jupyterlab",
+                  "marp"
+                ]
               },
               "first_seen": "2026-08-28T23:33:21.082Z"
             }
@@ -188,12 +285,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The core of Marp converter",
+            "homepage": null,
             "id": 136200010,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-09T18:30:27Z",
+            "open_issues": 8,
             "owner": "marp-team",
             "repo": "marp-core",
-            "stars": 1148
+            "stars": 1148,
+            "topics": [
+              "deck",
+              "markdown",
+              "marp",
+              "presentation",
+              "slides"
+            ]
           },
           "first_seen": "2026-08-28T23:33:21.082Z"
         },
@@ -206,12 +314,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An open-source presentation theme ecosystem for Marp/Markdown users.",
+                "homepage": null,
                 "id": 695369062,
                 "language": "HTML",
+                "license": null,
                 "last_commit": "2026-08-21T10:22:20Z",
+                "open_issues": 41,
                 "owner": "favourhong",
                 "repo": "Awesome-Marp",
-                "stars": 1039
+                "stars": 1039,
+                "topics": [
+                  "css",
+                  "education",
+                  "markdown",
+                  "markdown-template",
+                  "marp",
+                  "marp-template",
+                  "marp-themes",
+                  "slides",
+                  "themes"
+                ]
               },
               "first_seen": "2026-08-28T23:33:21.082Z"
             },
@@ -222,12 +345,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Academic Presentation Slides with Marp",
+                "homepage": "https://zenn.dev/hellorusk/articles/4edf3920dd1a35?locale=en",
                 "id": 495752854,
                 "language": "CSS",
+                "license": "MIT",
                 "last_commit": "2023-07-14T08:52:26Z",
+                "open_issues": 0,
                 "owner": "kaisugi",
                 "repo": "marp-theme-academic",
-                "stars": 278
+                "stars": 278,
+                "topics": [
+                  "marp",
+                  "marp-themes"
+                ]
               },
               "first_seen": "2026-08-28T23:33:21.082Z"
             },
@@ -238,12 +369,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Repository for Marp Themes created with beauty and simplicity in mind.",
+                "homepage": null,
                 "id": 436608970,
                 "language": "CSS",
+                "license": "MIT",
                 "last_commit": "2026-07-23T14:10:43Z",
+                "open_issues": 0,
                 "owner": "cunhapaulo",
                 "repo": "marpstyle",
-                "stars": 206
+                "stars": 206,
+                "topics": [
+                  "css",
+                  "marp",
+                  "marp-themes",
+                  "slides",
+                  "theme",
+                  "themes",
+                  "themes-css"
+                ]
               },
               "first_seen": "2026-08-28T23:33:21.082Z"
             },
@@ -254,12 +398,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Rosé Pine For Marp",
+                "homepage": null,
                 "id": 580841252,
                 "language": "CSS",
+                "license": "MIT",
                 "last_commit": "2023-07-18T05:52:09Z",
+                "open_issues": 1,
                 "owner": "rainbowflesh",
                 "repo": "Rose-Pine-For-Marp",
-                "stars": 107
+                "stars": 107,
+                "topics": [
+                  "marp-themes",
+                  "rose-pine"
+                ]
               },
               "first_seen": "2026-08-28T23:33:21.082Z"
             },
@@ -270,12 +422,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A modern take on the LaTeX beamer theme, for Marp",
+                "homepage": "https://mikael-ros.github.io/neobeam/neobeam",
                 "id": 770308991,
                 "language": "CSS",
+                "license": "MIT",
                 "last_commit": "2026-03-06T21:28:06Z",
+                "open_issues": 3,
                 "owner": "mikael-ros",
                 "repo": "neobeam",
-                "stars": 103
+                "stars": 103,
+                "topics": [
+                  "beamer",
+                  "css",
+                  "html",
+                  "latex",
+                  "markdown",
+                  "marp",
+                  "marp-themes",
+                  "neobeam"
+                ]
               },
               "first_seen": "2026-08-28T23:33:21.082Z"
             },
@@ -286,12 +452,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Un thème pour créer un diaporama avec MARP",
+                "homepage": "https://eyssette.github.io/teaching-theme-for-marp/",
                 "id": 269153079,
                 "language": "HTML",
+                "license": "WTFPL",
                 "last_commit": "2021-09-05T12:24:06Z",
+                "open_issues": 0,
                 "owner": "eyssette",
                 "repo": "teaching-theme-for-marp",
-                "stars": 41
+                "stars": 41,
+                "topics": [
+                  "marp",
+                  "marp-themes",
+                  "teaching-theme-for-marp"
+                ]
               },
               "first_seen": "2026-08-28T23:33:21.082Z"
             },
@@ -302,12 +477,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This is a Marp / Marpit slides theme based on the Nord color palette.",
+                "homepage": null,
                 "id": 297125047,
                 "language": "CSS",
+                "license": null,
                 "last_commit": "2021-01-13T00:15:06Z",
+                "open_issues": 0,
                 "owner": "mastern2k3",
                 "repo": "marpit-nord-theme",
-                "stars": 27
+                "stars": 27,
+                "topics": [
+                  "marp",
+                  "marpit",
+                  "nord"
+                ]
               },
               "first_seen": "2026-08-28T23:33:21.082Z"
             },
@@ -318,12 +502,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Custom theme \"wave\" for the marp presentation framework",
+                "homepage": null,
                 "id": 704986490,
                 "language": "CSS",
+                "license": "MIT",
                 "last_commit": "2023-10-15T14:46:14Z",
+                "open_issues": 0,
                 "owner": "JuliusWiedemann",
                 "repo": "MarpThemeWave",
-                "stars": 21
+                "stars": 21,
+                "topics": [
+                  "marp",
+                  "marp-themes"
+                ]
               },
               "first_seen": "2026-08-28T23:33:21.082Z"
             },
@@ -334,12 +526,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🎨 A dark theme for Marp / Marpit slides ecosystem with a custom highlight.js theme.",
+                "homepage": "https://noraj.github.io/cybertopia-marp/",
                 "id": 866199332,
                 "language": "HTML",
+                "license": "MIT",
                 "last_commit": "2024-10-06T22:28:58Z",
+                "open_issues": 1,
                 "owner": "noraj",
                 "repo": "cybertopia-marp",
-                "stars": 15
+                "stars": 15,
+                "topics": [
+                  "cybertopia",
+                  "cybertopia-theme",
+                  "marp",
+                  "marp-theme",
+                  "marp-themes"
+                ]
               },
               "first_seen": "2026-08-28T23:33:21.082Z"
             },
@@ -350,12 +553,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Marp Theme using black and white",
+                "homepage": null,
                 "id": 740851087,
                 "language": "CSS",
+                "license": "MIT",
                 "last_commit": "2024-08-02T13:23:41Z",
+                "open_issues": 1,
                 "owner": "hyuunnn",
                 "repo": "marp-black-white",
-                "stars": 15
+                "stars": 15,
+                "topics": [
+                  "marp",
+                  "marp-template",
+                  "marp-themes",
+                  "slides"
+                ]
               },
               "first_seen": "2026-08-28T23:33:21.082Z"
             }
@@ -377,12 +590,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Markdown parser, done right. 100% CommonMark support, extensions, syntax plugins & high speed",
+            "homepage": "https://markdown-it.github.io",
             "id": 28249537,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-27T21:00:50Z",
+            "open_issues": 7,
             "owner": "markdown-it",
             "repo": "markdown-it",
-            "stars": 21857
+            "stars": 21857,
+            "topics": [
+              "commonmark",
+              "javascript",
+              "markdown"
+            ]
           },
           "first_seen": "2026-08-28T23:33:21.082Z"
         },
@@ -395,12 +617,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "markdown-it kroki plugin.",
+                "homepage": null,
                 "id": 552165439,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2025-05-01T23:59:41Z",
+                "open_issues": 3,
                 "owner": "kazumatu981",
                 "repo": "markdown-it-kroki",
-                "stars": 12
+                "stars": 12,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:33:21.082Z"
             },
@@ -411,12 +638,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 621056647,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2025-07-19T12:15:02Z",
+                "open_issues": 0,
                 "owner": "kazumatu981",
                 "repo": "markdown-it-fontawesome",
-                "stars": 3
+                "stars": 3,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:33:21.082Z"
             }
@@ -438,12 +670,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The good starter for using Marp via Marp CLI, by the author of Marp",
+            "homepage": "https://yhatt.github.io/marp-cli-example",
             "id": 147486504,
             "language": "JavaScript",
+            "license": "WTFPL",
             "last_commit": "2026-08-11T08:27:32Z",
+            "open_issues": 1,
             "owner": "yhatt",
             "repo": "marp-cli-example",
-            "stars": 213
+            "stars": 213,
+            "topics": [
+              "deck",
+              "markdown",
+              "marp",
+              "netlify",
+              "presentation",
+              "slides",
+              "vercel"
+            ]
           },
           "first_seen": "2026-08-28T23:33:21.082Z"
         },
@@ -456,12 +701,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Example marp action",
+                "homepage": "https://alexsci.com/marp-to-pages/",
                 "id": 248073400,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2023-06-26T01:04:56Z",
+                "open_issues": 3,
                 "owner": "robalexdev",
                 "repo": "marp-to-pages",
-                "stars": 85
+                "stars": 85,
+                "topics": [
+                  "marp-action",
+                  "template-repository"
+                ]
               },
               "first_seen": "2026-08-28T23:33:21.082Z"
             },
@@ -472,12 +725,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "EclipseCON 2022 Keyboard Talk",
+                "homepage": "https://mattdibi.github.io/eclipsecon-keyboard-talk/",
                 "id": 522005766,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2025-10-31T09:47:52Z",
+                "open_issues": 0,
                 "owner": "mattdibi",
                 "repo": "eclipsecon-keyboard-talk",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:33:21.082Z"
             },
@@ -488,12 +746,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Demo to publish and host all of your Marp presentations with pretty URLs to GitHub Pages",
+                "homepage": "https://pages-templates.github.io/marp/",
                 "id": 1079809395,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-03-13T01:58:45Z",
+                "open_issues": 0,
                 "owner": "pages-templates",
                 "repo": "marp",
-                "stars": 0
+                "stars": 0,
+                "topics": [
+                  "demo",
+                  "github-pages",
+                  "markdown",
+                  "marp",
+                  "presentation",
+                  "presentation-slides"
+                ]
               },
               "first_seen": "2026-08-28T23:33:21.082Z"
             }
@@ -507,15 +777,29 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T23:33:21.082Z",
+    "last_updated": "2026-08-29T04:42:47.966Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of awesome things related to Marp",
+      "homepage": null,
       "id": 755915543,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2026-04-25T00:14:21Z",
+      "open_issues": 0,
       "owner": "marp-team",
       "repo": "awesome-marp",
-      "stars": 511
+      "stars": 511,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "deck",
+        "list",
+        "markdown",
+        "marp",
+        "presentation",
+        "slides"
+      ]
     },
     "original_repository_sha": "25dde80d5d45f18bb6eb347d916b982057370258",
     "enhanced_repository": "enhansome/enhansome-marp",
