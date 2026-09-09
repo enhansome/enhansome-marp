@@ -21,7 +21,7 @@
                 "open_issues": 18,
                 "owner": "marp-team",
                 "repo": "marp-cli",
-                "stars": 3810,
+                "stars": 3811,
                 "topics": [
                   "cli",
                   "deck",
@@ -50,7 +50,7 @@
                 "open_issues": 12,
                 "owner": "marp-team",
                 "repo": "marp-vscode",
-                "stars": 2085,
+                "stars": 2087,
                 "topics": [
                   "markdown",
                   "marp",
@@ -109,7 +109,7 @@
                     "open_issues": 1,
                     "owner": "marp-team",
                     "repo": "marp",
-                    "stars": 12468,
+                    "stars": 12475,
                     "topics": [
                       "deck",
                       "markdown",
@@ -177,8 +177,8 @@
                 "id": 82206054,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-08T17:21:02Z",
-                "open_issues": 93,
+                "last_commit": "2026-09-09T16:21:02Z",
+                "open_issues": 97,
                 "owner": "growilabs",
                 "repo": "growi",
                 "stars": 1468,
@@ -323,7 +323,7 @@
                 "open_issues": 41,
                 "owner": "favourhong",
                 "repo": "Awesome-Marp",
-                "stars": 1043,
+                "stars": 1044,
                 "topics": [
                   "css",
                   "education",
@@ -354,7 +354,7 @@
                 "open_issues": 0,
                 "owner": "kaisugi",
                 "repo": "marp-theme-academic",
-                "stars": 279,
+                "stars": 280,
                 "topics": [
                   "marp",
                   "marp-themes"
@@ -378,7 +378,7 @@
                 "open_issues": 0,
                 "owner": "cunhapaulo",
                 "repo": "marpstyle",
-                "stars": 206,
+                "stars": 205,
                 "topics": [
                   "css",
                   "marp",
@@ -407,7 +407,7 @@
                 "open_issues": 1,
                 "owner": "rainbowflesh",
                 "repo": "Rose-Pine-For-Marp",
-                "stars": 107,
+                "stars": 106,
                 "topics": [
                   "marp-themes",
                   "rose-pine"
@@ -431,7 +431,7 @@
                 "open_issues": 3,
                 "owner": "mikael-ros",
                 "repo": "neobeam",
-                "stars": 103,
+                "stars": 104,
                 "topics": [
                   "beamer",
                   "css",
@@ -596,10 +596,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-08-27T21:00:50Z",
-            "open_issues": 8,
+            "open_issues": 10,
             "owner": "markdown-it",
             "repo": "markdown-it",
-            "stars": 21886,
+            "stars": 21887,
             "topics": [
               "commonmark",
               "javascript",
@@ -675,7 +675,7 @@
             "id": 147486504,
             "language": "JavaScript",
             "license": "WTFPL",
-            "last_commit": "2026-08-11T08:27:32Z",
+            "last_commit": "2026-09-09T13:14:11Z",
             "open_issues": 1,
             "owner": "yhatt",
             "repo": "marp-cli-example",
@@ -777,7 +777,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-08T17:56:01.902Z",
+    "last_updated": "2026-09-09T17:50:20.258Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to Marp",
@@ -789,7 +789,7 @@
       "open_issues": 0,
       "owner": "marp-team",
       "repo": "awesome-marp",
-      "stars": 512,
+      "stars": 511,
       "topics": [
         "awesome",
         "awesome-list",

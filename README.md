@@ -32,11 +32,11 @@ A curated list of awesome things related to [Marp].
 
 ### Official
 
-* [Marp CLI](https://github.com/marp-team/marp-cli) ⭐ 3,810 | 🐛 18 | 🌐 TypeScript | 📅 2026-09-08 - A CLI interface for Marp and Marpit-based converters.
-* [Marp for VS Code](https://github.com/marp-team/marp-vscode) ⭐ 2,085 | 🐛 12 | 🌐 TypeScript | 📅 2026-08-11 - An extension of Marp for [Visual Studio Code](https://code.visualstudio.com/).
+* [Marp CLI](https://github.com/marp-team/marp-cli) ⭐ 3,811 | 🐛 18 | 🌐 TypeScript | 📅 2026-09-08 - A CLI interface for Marp and Marpit-based converters.
+* [Marp for VS Code](https://github.com/marp-team/marp-vscode) ⭐ 2,087 | 🐛 12 | 🌐 TypeScript | 📅 2026-08-11 - An extension of Marp for [Visual Studio Code](https://code.visualstudio.com/).
 * [Marp Core](https://github.com/marp-team/marp-core) ⭐ 1,151 | 🐛 8 | 🌐 TypeScript | 📅 2026-09-04 - The core library of Marp, based on Marpit framework.
 * [Marp] - The entrance website of Marp ecosystem.
-  * [GitHub](https://github.com/marp-team/marp) ⭐ 12,468 | 🐛 1 | 🌐 TypeScript | 📅 2026-07-29 - The GitHub repository of Marp website.
+  * [GitHub](https://github.com/marp-team/marp) ⭐ 12,475 | 🐛 1 | 🌐 TypeScript | 📅 2026-07-29 - The GitHub repository of Marp website.
   * [GitHub Discussions](https://github.com/orgs/marp-team/discussions) - The discussion forum about Marp ecosystem.
 * [Marpit framework](https://marpit.marp.app) - The skinny framework to create slides from Markdown.
   * [GitHub](https://github.com/marp-team/marpit) ⭐ 1,376 | 🐛 19 | 🌐 JavaScript | 📅 2026-09-04 - The GitHub repository of Marpit framework.
@@ -44,7 +44,7 @@ A curated list of awesome things related to [Marp].
 
 ### Community
 
-* [GROWI](https://github.com/weseek/growi/) ⭐ 1,468 | 🐛 93 | 🌐 TypeScript | 📅 2026-09-08 - Markdown collaboration software including [Marp support](https://docs.growi.org/en/guide/features/presentation.html#what-are-growi-slide-and-marp-slide).
+* [GROWI](https://github.com/weseek/growi/) ⭐ 1,468 | 🐛 97 | 🌐 TypeScript | 📅 2026-09-09 - Markdown collaboration software including [Marp support](https://docs.growi.org/en/guide/features/presentation.html#what-are-growi-slide-and-marp-slide).
 * [Marp Slides for Obsidian](https://github.com/samuele-cozzi/obsidian-marp-slides) ⭐ 266 | 🐛 33 | 🌐 CSS | 📅 2026-04-11 - A plugin for [Obsidian](https://obsidian.md/).
 * [Obsidian Marp Plugin](https://github.com/JichouP/obsidian-marp-plugin) ⭐ 178 | 🐛 26 | 🌐 TypeScript | 📅 2025-04-01 - Yet another plugin for Obsidian.
 * [marpyter](https://github.com/trungleduc/marpyter) ⭐ 31 | 🐛 0 | 🌐 TypeScript | 📅 2025-09-16 - An extension for [JupyterLab](https://jupyter.org/).
@@ -58,11 +58,11 @@ A curated list of awesome things related to [Marp].
 
 ### Community themes
 
-* [Awesome Marp](https://github.com/favourhong/Awesome-Marp) ⭐ 1,043 | 🐛 41 | 🌐 HTML | 📅 2026-08-21 - Marp theme set with many useful layouts. 🇨🇳
-* [marp-theme-academic](https://github.com/kaisugi/marp-theme-academic) ⭐ 279 | 🐛 0 | 🌐 CSS | 📅 2023-07-14 - A Marp theme with Beamer-like academic style. 🇯🇵
-* [marpstyle](https://github.com/cunhapaulo/marpstyle) ⭐ 206 | 🐛 0 | 🌐 CSS | 📅 2026-07-23 - The set of Marp themes, designed with simplicity and beauty as first class prerequisites.
-* [Rosé Pine](https://github.com/rainbowflesh/Rose-Pine-For-Marp) ⭐ 107 | 🐛 1 | 🌐 CSS | 📅 2023-07-18 - Marp themes using [Rosé Pine](https://rosepinetheme.com/) palettes.
-* [Neobeam](https://github.com/mikael-ros/neobeam) ⭐ 103 | 🐛 3 | 🌐 CSS | 📅 2026-03-06 - A modern take on LaTeX beamer.
+* [Awesome Marp](https://github.com/favourhong/Awesome-Marp) ⭐ 1,044 | 🐛 41 | 🌐 HTML | 📅 2026-08-21 - Marp theme set with many useful layouts. 🇨🇳
+* [marp-theme-academic](https://github.com/kaisugi/marp-theme-academic) ⭐ 280 | 🐛 0 | 🌐 CSS | 📅 2023-07-14 - A Marp theme with Beamer-like academic style. 🇯🇵
+* [marpstyle](https://github.com/cunhapaulo/marpstyle) ⭐ 205 | 🐛 0 | 🌐 CSS | 📅 2026-07-23 - The set of Marp themes, designed with simplicity and beauty as first class prerequisites.
+* [Rosé Pine](https://github.com/rainbowflesh/Rose-Pine-For-Marp) ⭐ 106 | 🐛 1 | 🌐 CSS | 📅 2023-07-18 - Marp themes using [Rosé Pine](https://rosepinetheme.com/) palettes.
+* [Neobeam](https://github.com/mikael-ros/neobeam) ⭐ 104 | 🐛 3 | 🌐 CSS | 📅 2026-03-06 - A modern take on LaTeX beamer.
 * [teaching-theme-for-marp](https://github.com/eyssette/teaching-theme-for-marp) ⭐ 41 | 🐛 0 | 🌐 HTML | 📅 2021-09-05 - A Marp theme designed for teaching. 🇫🇷
 * [Nord](https://github.com/mastern2k3/marpit-nord-theme) ⭐ 27 | 🐛 0 | 🌐 CSS | 📅 2021-01-13 - A theme based on [Nord](https://www.nordtheme.com/) color palette.
 * [Wave](https://github.com/JuliusWiedemann/MarpThemeWave) ⭐ 21 | 🐛 0 | 🌐 CSS | 📅 2023-10-15 - Marp theme with modern wave.
@@ -77,7 +77,7 @@ A curated list of awesome things related to [Marp].
 
 > Plugins can be used with Marpit framework, Marp Core, and Marp CLI.
 
-* [markdown-it plugins (npm)](https://www.npmjs.com/search?q=keywords:markdown-it-plugin) - A list of published [markdown-it](https://github.com/markdown-it/markdown-it) ⭐ 21,886 | 🐛 8 | 🌐 TypeScript | 📅 2026-08-27 plugins. (may compatible with Marp)
+* [markdown-it plugins (npm)](https://www.npmjs.com/search?q=keywords:markdown-it-plugin) - A list of published [markdown-it](https://github.com/markdown-it/markdown-it) ⭐ 21,887 | 🐛 10 | 🌐 TypeScript | 📅 2026-08-27 plugins. (may compatible with Marp)
 * [Marp plugins (npm)](https://www.npmjs.com/search?q=keywords:marp-plugin) - A list of published as the Marp plugin. (npm packages with `marp-plugin` keyword)
 
 <!--
@@ -93,7 +93,7 @@ This section will list Marp-specific plugins.
 
 ## Examples
 
-* [Marp CLI example](https://github.com/yhatt/marp-cli-example) ⭐ 213 | 🐛 1 | 🌐 JavaScript | 📅 2026-08-11 - An example of Marp CLI automation with GitHub Pages/Netlify/Vercel. (by Marp maintainer)
+* [Marp CLI example](https://github.com/yhatt/marp-cli-example) ⭐ 213 | 🐛 1 | 🌐 JavaScript | 📅 2026-09-09 - An example of Marp CLI automation with GitHub Pages/Netlify/Vercel. (by Marp maintainer)
 
 ### Community examples
 
@@ -103,4 +103,4 @@ This section will list Marp-specific plugins.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-08._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-09._
