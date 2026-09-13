@@ -21,7 +21,7 @@
                 "open_issues": 18,
                 "owner": "marp-team",
                 "repo": "marp-cli",
-                "stars": 3813,
+                "stars": 3817,
                 "topics": [
                   "cli",
                   "deck",
@@ -109,7 +109,7 @@
                     "open_issues": 1,
                     "owner": "marp-team",
                     "repo": "marp",
-                    "stars": 12493,
+                    "stars": 12498,
                     "topics": [
                       "deck",
                       "markdown",
@@ -599,7 +599,7 @@
             "open_issues": 8,
             "owner": "markdown-it",
             "repo": "markdown-it",
-            "stars": 21895,
+            "stars": 21898,
             "topics": [
               "commonmark",
               "javascript",
@@ -777,7 +777,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T17:11:26.067Z",
+    "last_updated": "2026-09-13T17:24:52.201Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to Marp",
