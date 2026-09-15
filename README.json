@@ -21,7 +21,7 @@
                 "open_issues": 18,
                 "owner": "marp-team",
                 "repo": "marp-cli",
-                "stars": 3820,
+                "stars": 3819,
                 "topics": [
                   "cli",
                   "deck",
@@ -50,7 +50,7 @@
                 "open_issues": 12,
                 "owner": "marp-team",
                 "repo": "marp-vscode",
-                "stars": 2089,
+                "stars": 2090,
                 "topics": [
                   "markdown",
                   "marp",
@@ -109,7 +109,7 @@
                     "open_issues": 1,
                     "owner": "marp-team",
                     "repo": "marp",
-                    "stars": 12504,
+                    "stars": 12512,
                     "topics": [
                       "deck",
                       "markdown",
@@ -143,7 +143,7 @@
                     "open_issues": 19,
                     "owner": "marp-team",
                     "repo": "marpit",
-                    "stars": 1377,
+                    "stars": 1378,
                     "topics": [
                       "deck",
                       "framework",
@@ -177,8 +177,8 @@
                 "id": 82206054,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-14T19:07:28Z",
-                "open_issues": 86,
+                "last_commit": "2026-09-15T12:01:37Z",
+                "open_issues": 83,
                 "owner": "growilabs",
                 "repo": "growi",
                 "stars": 1469,
@@ -323,7 +323,7 @@
                 "open_issues": 41,
                 "owner": "favourhong",
                 "repo": "Awesome-Marp",
-                "stars": 1047,
+                "stars": 1048,
                 "topics": [
                   "css",
                   "education",
@@ -461,7 +461,7 @@
                 "open_issues": 0,
                 "owner": "eyssette",
                 "repo": "teaching-theme-for-marp",
-                "stars": 41,
+                "stars": 42,
                 "topics": [
                   "marp",
                   "marp-themes",
@@ -535,7 +535,7 @@
                 "open_issues": 1,
                 "owner": "noraj",
                 "repo": "cybertopia-marp",
-                "stars": 15,
+                "stars": 16,
                 "topics": [
                   "cybertopia",
                   "cybertopia-theme",
@@ -599,7 +599,7 @@
             "open_issues": 8,
             "owner": "markdown-it",
             "repo": "markdown-it",
-            "stars": 21901,
+            "stars": 21906,
             "topics": [
               "commonmark",
               "javascript",
@@ -777,7 +777,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-14T19:22:32.429Z",
+    "last_updated": "2026-09-15T18:12:39.868Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to Marp",
