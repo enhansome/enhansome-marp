@@ -21,7 +21,7 @@
                 "open_issues": 18,
                 "owner": "marp-team",
                 "repo": "marp-cli",
-                "stars": 3830,
+                "stars": 3831,
                 "topics": [
                   "cli",
                   "deck",
@@ -109,7 +109,7 @@
                     "open_issues": 1,
                     "owner": "marp-team",
                     "repo": "marp",
-                    "stars": 12557,
+                    "stars": 12562,
                     "topics": [
                       "deck",
                       "markdown",
@@ -177,8 +177,8 @@
                 "id": 82206054,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-22T23:31:34Z",
-                "open_issues": 99,
+                "last_commit": "2026-09-24T17:00:45Z",
+                "open_issues": 90,
                 "owner": "growilabs",
                 "repo": "growi",
                 "stars": 1470,
@@ -213,7 +213,7 @@
                 "open_issues": 33,
                 "owner": "samuele-cozzi",
                 "repo": "obsidian-marp-slides",
-                "stars": 267,
+                "stars": 266,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:33:21.082Z"
@@ -596,10 +596,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-09-12T05:27:05Z",
-            "open_issues": 9,
+            "open_issues": 10,
             "owner": "markdown-it",
             "repo": "markdown-it",
-            "stars": 21936,
+            "stars": 21940,
             "topics": [
               "commonmark",
               "javascript",
@@ -777,7 +777,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-23T18:24:30.195Z",
+    "last_updated": "2026-09-24T18:25:54.596Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to Marp",
