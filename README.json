@@ -21,7 +21,7 @@
                 "open_issues": 18,
                 "owner": "marp-team",
                 "repo": "marp-cli",
-                "stars": 3834,
+                "stars": 3838,
                 "topics": [
                   "cli",
                   "deck",
@@ -50,7 +50,7 @@
                 "open_issues": 12,
                 "owner": "marp-team",
                 "repo": "marp-vscode",
-                "stars": 2092,
+                "stars": 2093,
                 "topics": [
                   "markdown",
                   "marp",
@@ -74,10 +74,10 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-09-04T23:28:28Z",
-                "open_issues": 8,
+                "open_issues": 9,
                 "owner": "marp-team",
                 "repo": "marp-core",
-                "stars": 1155,
+                "stars": 1156,
                 "topics": [
                   "deck",
                   "markdown",
@@ -109,7 +109,7 @@
                     "open_issues": 1,
                     "owner": "marp-team",
                     "repo": "marp",
-                    "stars": 12560,
+                    "stars": 12564,
                     "topics": [
                       "deck",
                       "markdown",
@@ -140,7 +140,7 @@
                     "language": "JavaScript",
                     "license": "MIT",
                     "last_commit": "2026-09-04T22:46:29Z",
-                    "open_issues": 19,
+                    "open_issues": 20,
                     "owner": "marp-team",
                     "repo": "marpit",
                     "stars": 1381,
@@ -177,7 +177,7 @@
                 "id": 82206054,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-25T11:09:59Z",
+                "last_commit": "2026-09-26T03:41:37Z",
                 "open_issues": 92,
                 "owner": "growilabs",
                 "repo": "growi",
@@ -291,10 +291,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-09-04T23:28:28Z",
-            "open_issues": 8,
+            "open_issues": 9,
             "owner": "marp-team",
             "repo": "marp-core",
-            "stars": 1155,
+            "stars": 1156,
             "topics": [
               "deck",
               "markdown",
@@ -393,6 +393,36 @@
             },
             {
               "node_type": "item",
+              "title": "Neobeam",
+              "description": "A modern take on LaTeX beamer.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "A modern take on the LaTeX beamer theme, for Marp",
+                "homepage": "https://mikael-ros.github.io/neobeam/neobeam",
+                "id": 770308991,
+                "language": "CSS",
+                "license": "MIT",
+                "last_commit": "2026-03-06T21:28:06Z",
+                "open_issues": 3,
+                "owner": "mikael-ros",
+                "repo": "neobeam",
+                "stars": 106,
+                "topics": [
+                  "beamer",
+                  "css",
+                  "html",
+                  "latex",
+                  "markdown",
+                  "marp",
+                  "marp-themes",
+                  "neobeam"
+                ]
+              },
+              "first_seen": "2026-08-28T23:33:21.082Z"
+            },
+            {
+              "node_type": "item",
               "title": "Rosé Pine",
               "description": "Marp themes using Rosé Pine palettes.",
               "children": [],
@@ -411,36 +441,6 @@
                 "topics": [
                   "marp-themes",
                   "rose-pine"
-                ]
-              },
-              "first_seen": "2026-08-28T23:33:21.082Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Neobeam",
-              "description": "A modern take on LaTeX beamer.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "A modern take on the LaTeX beamer theme, for Marp",
-                "homepage": "https://mikael-ros.github.io/neobeam/neobeam",
-                "id": 770308991,
-                "language": "CSS",
-                "license": "MIT",
-                "last_commit": "2026-03-06T21:28:06Z",
-                "open_issues": 3,
-                "owner": "mikael-ros",
-                "repo": "neobeam",
-                "stars": 104,
-                "topics": [
-                  "beamer",
-                  "css",
-                  "html",
-                  "latex",
-                  "markdown",
-                  "marp",
-                  "marp-themes",
-                  "neobeam"
                 ]
               },
               "first_seen": "2026-08-28T23:33:21.082Z"
@@ -599,7 +599,7 @@
             "open_issues": 10,
             "owner": "markdown-it",
             "repo": "markdown-it",
-            "stars": 21941,
+            "stars": 21943,
             "topics": [
               "commonmark",
               "javascript",
@@ -777,7 +777,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-25T18:37:39.111Z",
+    "last_updated": "2026-09-26T17:45:46.098Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to Marp",
