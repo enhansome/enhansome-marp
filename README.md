@@ -34,12 +34,12 @@ A curated list of awesome things related to [Marp].
 
 * [Marp CLI](https://github.com/marp-team/marp-cli) ⭐ 3,838 | 🐛 18 | 🌐 TypeScript | 📅 2026-09-08 - A CLI interface for Marp and Marpit-based converters.
 * [Marp for VS Code](https://github.com/marp-team/marp-vscode) ⭐ 2,093 | 🐛 12 | 🌐 TypeScript | 📅 2026-08-11 - An extension of Marp for [Visual Studio Code](https://code.visualstudio.com/).
-* [Marp Core](https://github.com/marp-team/marp-core) ⭐ 1,156 | 🐛 9 | 🌐 TypeScript | 📅 2026-09-04 - The core library of Marp, based on Marpit framework.
+* [Marp Core](https://github.com/marp-team/marp-core) ⭐ 1,157 | 🐛 9 | 🌐 TypeScript | 📅 2026-09-04 - The core library of Marp, based on Marpit framework.
 * [Marp] - The entrance website of Marp ecosystem.
-  * [GitHub](https://github.com/marp-team/marp) ⭐ 12,564 | 🐛 1 | 🌐 TypeScript | 📅 2026-07-29 - The GitHub repository of Marp website.
+  * [GitHub](https://github.com/marp-team/marp) ⭐ 12,566 | 🐛 1 | 🌐 TypeScript | 📅 2026-07-29 - The GitHub repository of Marp website.
   * [GitHub Discussions](https://github.com/orgs/marp-team/discussions) - The discussion forum about Marp ecosystem.
 * [Marpit framework](https://marpit.marp.app) - The skinny framework to create slides from Markdown.
-  * [GitHub](https://github.com/marp-team/marpit) ⭐ 1,381 | 🐛 20 | 🌐 JavaScript | 📅 2026-09-04 - The GitHub repository of Marpit framework.
+  * [GitHub](https://github.com/marp-team/marpit) ⭐ 1,382 | 🐛 20 | 🌐 JavaScript | 📅 2026-09-04 - The GitHub repository of Marpit framework.
   * [Marpit API](https://marpit-api.marp.app) - The API reference of Marpit framework.
 
 ### Community
@@ -52,7 +52,7 @@ A curated list of awesome things related to [Marp].
 
 ## Themes
 
-* [Marp Core built-in themes](https://github.com/marp-team/marp-core/blob/main/themes/README.md) ⭐ 1,156 | 🐛 9 | 🌐 TypeScript | 📅 2026-09-04 - A documentation for Marp Core built-in themes.
+* [Marp Core built-in themes](https://github.com/marp-team/marp-core/blob/main/themes/README.md) ⭐ 1,157 | 🐛 9 | 🌐 TypeScript | 📅 2026-09-04 - A documentation for Marp Core built-in themes.
 * [Marp Community Themes](https://rnd195.github.io/marp-community-themes/) - A curation site of Marp themes.
 * [Marp Template Library](https://yoanbernabeu.github.io/MARP-Template-Library/) - Yet another curation site of Marp themes.
 
@@ -77,7 +77,7 @@ A curated list of awesome things related to [Marp].
 
 > Plugins can be used with Marpit framework, Marp Core, and Marp CLI.
 
-* [markdown-it plugins (npm)](https://www.npmjs.com/search?q=keywords:markdown-it-plugin) - A list of published [markdown-it](https://github.com/markdown-it/markdown-it) ⭐ 21,943 | 🐛 10 | 🌐 TypeScript | 📅 2026-09-12 plugins. (may compatible with Marp)
+* [markdown-it plugins (npm)](https://www.npmjs.com/search?q=keywords:markdown-it-plugin) - A list of published [markdown-it](https://github.com/markdown-it/markdown-it) ⭐ 21,944 | 🐛 10 | 🌐 TypeScript | 📅 2026-09-12 plugins. (may compatible with Marp)
 * [Marp plugins (npm)](https://www.npmjs.com/search?q=keywords:marp-plugin) - A list of published as the Marp plugin. (npm packages with `marp-plugin` keyword)
 
 <!--
@@ -103,4 +103,4 @@ This section will list Marp-specific plugins.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-27._
