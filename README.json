@@ -50,7 +50,7 @@
                 "open_issues": 12,
                 "owner": "marp-team",
                 "repo": "marp-vscode",
-                "stars": 2096,
+                "stars": 2097,
                 "topics": [
                   "markdown",
                   "marp",
@@ -109,7 +109,7 @@
                     "open_issues": 1,
                     "owner": "marp-team",
                     "repo": "marp",
-                    "stars": 12588,
+                    "stars": 12592,
                     "topics": [
                       "deck",
                       "markdown",
@@ -323,7 +323,7 @@
                 "open_issues": 41,
                 "owner": "favourhong",
                 "repo": "Awesome-Marp",
-                "stars": 1050,
+                "stars": 1049,
                 "topics": [
                   "css",
                   "education",
@@ -599,7 +599,7 @@
             "open_issues": 10,
             "owner": "markdown-it",
             "repo": "markdown-it",
-            "stars": 21956,
+            "stars": 21955,
             "topics": [
               "commonmark",
               "javascript",
@@ -777,7 +777,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T17:57:54.961Z",
+    "last_updated": "2026-10-04T18:10:04.168Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to Marp",
@@ -789,7 +789,7 @@
       "open_issues": 0,
       "owner": "marp-team",
       "repo": "awesome-marp",
-      "stars": 520,
+      "stars": 521,
       "topics": [
         "awesome",
         "awesome-list",
