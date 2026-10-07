@@ -21,7 +21,7 @@
                 "open_issues": 19,
                 "owner": "marp-team",
                 "repo": "marp-cli",
-                "stars": 3854,
+                "stars": 3859,
                 "topics": [
                   "cli",
                   "deck",
@@ -50,7 +50,7 @@
                 "open_issues": 12,
                 "owner": "marp-team",
                 "repo": "marp-vscode",
-                "stars": 2097,
+                "stars": 2099,
                 "topics": [
                   "markdown",
                   "marp",
@@ -77,7 +77,7 @@
                 "open_issues": 9,
                 "owner": "marp-team",
                 "repo": "marp-core",
-                "stars": 1157,
+                "stars": 1158,
                 "topics": [
                   "deck",
                   "markdown",
@@ -109,7 +109,7 @@
                     "open_issues": 1,
                     "owner": "marp-team",
                     "repo": "marp",
-                    "stars": 12601,
+                    "stars": 12605,
                     "topics": [
                       "deck",
                       "markdown",
@@ -143,7 +143,7 @@
                     "open_issues": 20,
                     "owner": "marp-team",
                     "repo": "marpit",
-                    "stars": 1385,
+                    "stars": 1386,
                     "topics": [
                       "deck",
                       "framework",
@@ -177,8 +177,8 @@
                 "id": 82206054,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-06T08:35:07Z",
-                "open_issues": 77,
+                "last_commit": "2026-10-07T15:53:10Z",
+                "open_issues": 78,
                 "owner": "growilabs",
                 "repo": "growi",
                 "stars": 1470,
@@ -234,7 +234,7 @@
                 "open_issues": 27,
                 "owner": "JichouP",
                 "repo": "obsidian-marp-plugin",
-                "stars": 178,
+                "stars": 177,
                 "topics": [
                   "obsidian-md",
                   "obsidian-plugin",
@@ -294,7 +294,7 @@
             "open_issues": 9,
             "owner": "marp-team",
             "repo": "marp-core",
-            "stars": 1157,
+            "stars": 1158,
             "topics": [
               "deck",
               "markdown",
@@ -599,7 +599,7 @@
             "open_issues": 11,
             "owner": "markdown-it",
             "repo": "markdown-it",
-            "stars": 21961,
+            "stars": 21963,
             "topics": [
               "commonmark",
               "javascript",
@@ -777,7 +777,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T19:32:50.560Z",
+    "last_updated": "2026-10-07T19:59:18.236Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to Marp",
