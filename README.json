@@ -21,7 +21,7 @@
                 "open_issues": 20,
                 "owner": "marp-team",
                 "repo": "marp-cli",
-                "stars": 3878,
+                "stars": 3884,
                 "topics": [
                   "cli",
                   "deck",
@@ -109,7 +109,7 @@
                     "open_issues": 1,
                     "owner": "marp-team",
                     "repo": "marp",
-                    "stars": 12670,
+                    "stars": 12675,
                     "topics": [
                       "deck",
                       "markdown",
@@ -177,11 +177,11 @@
                 "id": 82206054,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-22T13:43:40Z",
+                "last_commit": "2026-10-23T11:05:42Z",
                 "open_issues": 72,
                 "owner": "growilabs",
                 "repo": "growi",
-                "stars": 1471,
+                "stars": 1473,
                 "topics": [
                   "ai",
                   "docker",
@@ -354,7 +354,7 @@
                 "open_issues": 0,
                 "owner": "kaisugi",
                 "repo": "marp-theme-academic",
-                "stars": 283,
+                "stars": 284,
                 "topics": [
                   "marp",
                   "marp-themes"
@@ -595,11 +595,11 @@
             "id": 28249537,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-16T01:44:32Z",
-            "open_issues": 10,
+            "last_commit": "2026-10-23T18:10:45Z",
+            "open_issues": 13,
             "owner": "markdown-it",
             "repo": "markdown-it",
-            "stars": 21994,
+            "stars": 21999,
             "topics": [
               "commonmark",
               "javascript",
@@ -777,7 +777,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-22T18:33:07.503Z",
+    "last_updated": "2026-10-23T18:22:33.226Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to Marp",
