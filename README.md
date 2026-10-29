@@ -32,20 +32,20 @@ A curated list of awesome things related to [Marp].
 
 ### Official
 
-* [Marp CLI](https://github.com/marp-team/marp-cli) ⭐ 3,895 | 🐛 20 | 🌐 TypeScript | 📅 2026-09-08 - A CLI interface for Marp and Marpit-based converters.
-* [Marp for VS Code](https://github.com/marp-team/marp-vscode) ⭐ 2,102 | 🐛 12 | 🌐 TypeScript | 📅 2026-08-11 - An extension of Marp for [Visual Studio Code](https://code.visualstudio.com/).
+* [Marp CLI](https://github.com/marp-team/marp-cli) ⭐ 3,897 | 🐛 20 | 🌐 TypeScript | 📅 2026-09-08 - A CLI interface for Marp and Marpit-based converters.
+* [Marp for VS Code](https://github.com/marp-team/marp-vscode) ⭐ 2,101 | 🐛 12 | 🌐 TypeScript | 📅 2026-08-11 - An extension of Marp for [Visual Studio Code](https://code.visualstudio.com/).
 * [Marp Core](https://github.com/marp-team/marp-core) ⭐ 1,164 | 🐛 11 | 🌐 TypeScript | 📅 2026-10-20 - The core library of Marp, based on Marpit framework.
 * [Marp] - The entrance website of Marp ecosystem.
-  * [GitHub](https://github.com/marp-team/marp) ⭐ 12,699 | 🐛 1 | 🌐 TypeScript | 📅 2026-07-29 - The GitHub repository of Marp website.
+  * [GitHub](https://github.com/marp-team/marp) ⭐ 12,703 | 🐛 1 | 🌐 TypeScript | 📅 2026-07-29 - The GitHub repository of Marp website.
   * [GitHub Discussions](https://github.com/orgs/marp-team/discussions) - The discussion forum about Marp ecosystem.
 * [Marpit framework](https://marpit.marp.app) - The skinny framework to create slides from Markdown.
-  * [GitHub](https://github.com/marp-team/marpit) ⭐ 1,392 | 🐛 24 | 🌐 JavaScript | 📅 2026-10-22 - The GitHub repository of Marpit framework.
+  * [GitHub](https://github.com/marp-team/marpit) ⭐ 1,393 | 🐛 24 | 🌐 JavaScript | 📅 2026-10-22 - The GitHub repository of Marpit framework.
   * [Marpit API](https://marpit-api.marp.app) - The API reference of Marpit framework.
 
 ### Community
 
-* [GROWI](https://github.com/weseek/growi/) ⭐ 1,475 | 🐛 81 | 🌐 TypeScript | 📅 2026-10-28 - Markdown collaboration software including [Marp support](https://docs.growi.org/en/guide/features/presentation.html#what-are-growi-slide-and-marp-slide).
-* [Marp Slides for Obsidian](https://github.com/samuele-cozzi/obsidian-marp-slides) ⭐ 267 | 🐛 36 | 🌐 CSS | 📅 2026-04-11 - A plugin for [Obsidian](https://obsidian.md/).
+* [GROWI](https://github.com/weseek/growi/) ⭐ 1,476 | 🐛 77 | 🌐 TypeScript | 📅 2026-10-29 - Markdown collaboration software including [Marp support](https://docs.growi.org/en/guide/features/presentation.html#what-are-growi-slide-and-marp-slide).
+* [Marp Slides for Obsidian](https://github.com/samuele-cozzi/obsidian-marp-slides) ⭐ 268 | 🐛 36 | 🌐 CSS | 📅 2026-04-11 - A plugin for [Obsidian](https://obsidian.md/).
 * [Obsidian Marp Plugin](https://github.com/JichouP/obsidian-marp-plugin) ⭐ 177 | 🐛 27 | 🌐 TypeScript | 📅 2025-04-01 - Yet another plugin for Obsidian.
 * [marpyter](https://github.com/trungleduc/marpyter) ⭐ 31 | 🐛 0 | 🌐 TypeScript | 📅 2025-09-16 - An extension for [JupyterLab](https://jupyter.org/).
 * [sublimated](https://sublimated.com) - A git-native content platform software including [Marp integration](https://sublimated.com/docs/presentations/marp.md). ([Example](https://run.sublimated.com/docs/presentations/marp.md))
@@ -103,4 +103,4 @@ This section will list Marp-specific plugins.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-29._
