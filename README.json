@@ -21,7 +21,7 @@
                 "open_issues": 20,
                 "owner": "marp-team",
                 "repo": "marp-cli",
-                "stars": 3901,
+                "stars": 3902,
                 "topics": [
                   "cli",
                   "deck",
@@ -50,7 +50,7 @@
                 "open_issues": 12,
                 "owner": "marp-team",
                 "repo": "marp-vscode",
-                "stars": 2101,
+                "stars": 2104,
                 "topics": [
                   "markdown",
                   "marp",
@@ -109,7 +109,7 @@
                     "open_issues": 1,
                     "owner": "marp-team",
                     "repo": "marp",
-                    "stars": 12710,
+                    "stars": 12719,
                     "topics": [
                       "deck",
                       "markdown",
@@ -143,7 +143,7 @@
                     "open_issues": 26,
                     "owner": "marp-team",
                     "repo": "marpit",
-                    "stars": 1393,
+                    "stars": 1392,
                     "topics": [
                       "deck",
                       "framework",
@@ -177,7 +177,7 @@
                 "id": 82206054,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-11-02T15:32:45Z",
+                "last_commit": "2026-11-03T02:20:01Z",
                 "open_issues": 80,
                 "owner": "growilabs",
                 "repo": "growi",
@@ -323,7 +323,7 @@
                 "open_issues": 41,
                 "owner": "favourhong",
                 "repo": "Awesome-Marp",
-                "stars": 1057,
+                "stars": 1058,
                 "topics": [
                   "css",
                   "education",
@@ -599,7 +599,7 @@
             "open_issues": 14,
             "owner": "markdown-it",
             "repo": "markdown-it",
-            "stars": 22023,
+            "stars": 22027,
             "topics": [
               "commonmark",
               "javascript",
@@ -777,7 +777,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-02T22:47:16.289Z",
+    "last_updated": "2026-11-03T20:30:27.340Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to Marp",
