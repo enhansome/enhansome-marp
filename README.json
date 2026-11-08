@@ -109,7 +109,7 @@
                     "open_issues": 1,
                     "owner": "marp-team",
                     "repo": "marp",
-                    "stars": 12730,
+                    "stars": 12731,
                     "topics": [
                       "deck",
                       "markdown",
@@ -777,7 +777,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T18:48:27.871Z",
+    "last_updated": "2026-11-08T18:50:05.916Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to Marp",
