@@ -18,10 +18,10 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-09-08T14:24:15Z",
-                "open_issues": 20,
+                "open_issues": 21,
                 "owner": "marp-team",
                 "repo": "marp-cli",
-                "stars": 3922,
+                "stars": 3928,
                 "topics": [
                   "cli",
                   "deck",
@@ -50,7 +50,7 @@
                 "open_issues": 13,
                 "owner": "marp-team",
                 "repo": "marp-vscode",
-                "stars": 2107,
+                "stars": 2105,
                 "topics": [
                   "markdown",
                   "marp",
@@ -109,7 +109,7 @@
                     "open_issues": 1,
                     "owner": "marp-team",
                     "repo": "marp",
-                    "stars": 12743,
+                    "stars": 12752,
                     "topics": [
                       "deck",
                       "markdown",
@@ -178,7 +178,7 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-11-14T16:28:13Z",
-                "open_issues": 82,
+                "open_issues": 83,
                 "owner": "growilabs",
                 "repo": "growi",
                 "stars": 1480,
@@ -323,7 +323,7 @@
                 "open_issues": 41,
                 "owner": "favourhong",
                 "repo": "Awesome-Marp",
-                "stars": 1063,
+                "stars": 1064,
                 "topics": [
                   "css",
                   "education",
@@ -599,7 +599,7 @@
             "open_issues": 19,
             "owner": "markdown-it",
             "repo": "markdown-it",
-            "stars": 22038,
+            "stars": 22042,
             "topics": [
               "commonmark",
               "javascript",
@@ -777,7 +777,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T19:10:46.775Z",
+    "last_updated": "2026-11-15T19:47:17.006Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to Marp",
