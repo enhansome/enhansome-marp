@@ -21,7 +21,7 @@
                 "open_issues": 21,
                 "owner": "marp-team",
                 "repo": "marp-cli",
-                "stars": 3935,
+                "stars": 3937,
                 "topics": [
                   "cli",
                   "deck",
@@ -77,7 +77,7 @@
                 "open_issues": 11,
                 "owner": "marp-team",
                 "repo": "marp-core",
-                "stars": 1164,
+                "stars": 1165,
                 "topics": [
                   "deck",
                   "markdown",
@@ -109,7 +109,7 @@
                     "open_issues": 1,
                     "owner": "marp-team",
                     "repo": "marp",
-                    "stars": 12757,
+                    "stars": 12762,
                     "topics": [
                       "deck",
                       "markdown",
@@ -177,8 +177,8 @@
                 "id": 82206054,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-11-16T20:24:17Z",
-                "open_issues": 77,
+                "last_commit": "2026-11-17T19:33:25Z",
+                "open_issues": 72,
                 "owner": "growilabs",
                 "repo": "growi",
                 "stars": 1480,
@@ -294,7 +294,7 @@
             "open_issues": 11,
             "owner": "marp-team",
             "repo": "marp-core",
-            "stars": 1164,
+            "stars": 1165,
             "topics": [
               "deck",
               "markdown",
@@ -599,7 +599,7 @@
             "open_issues": 19,
             "owner": "markdown-it",
             "repo": "markdown-it",
-            "stars": 22046,
+            "stars": 22051,
             "topics": [
               "commonmark",
               "javascript",
@@ -777,7 +777,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-16T23:23:57.514Z",
+    "last_updated": "2026-11-17T22:25:14.485Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to Marp",
