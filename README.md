@@ -32,11 +32,11 @@ A curated list of awesome things related to [Marp].
 
 ### Official
 
-* [Marp CLI](https://github.com/marp-team/marp-cli) ⭐ 3,941 | 🐛 21 | 🌐 TypeScript | 📅 2026-09-08 - A CLI interface for Marp and Marpit-based converters.
-* [Marp for VS Code](https://github.com/marp-team/marp-vscode) ⭐ 2,103 | 🐛 13 | 🌐 TypeScript | 📅 2026-08-11 - An extension of Marp for [Visual Studio Code](https://code.visualstudio.com/).
+* [Marp CLI](https://github.com/marp-team/marp-cli) ⭐ 3,945 | 🐛 21 | 🌐 TypeScript | 📅 2026-09-08 - A CLI interface for Marp and Marpit-based converters.
+* [Marp for VS Code](https://github.com/marp-team/marp-vscode) ⭐ 2,104 | 🐛 13 | 🌐 TypeScript | 📅 2026-08-11 - An extension of Marp for [Visual Studio Code](https://code.visualstudio.com/).
 * [Marp Core](https://github.com/marp-team/marp-core) ⭐ 1,166 | 🐛 11 | 🌐 TypeScript | 📅 2026-10-20 - The core library of Marp, based on Marpit framework.
 * [Marp] - The entrance website of Marp ecosystem.
-  * [GitHub](https://github.com/marp-team/marp) ⭐ 12,776 | 🐛 1 | 🌐 TypeScript | 📅 2026-11-07 - The GitHub repository of Marp website.
+  * [GitHub](https://github.com/marp-team/marp) ⭐ 12,777 | 🐛 1 | 🌐 TypeScript | 📅 2026-11-07 - The GitHub repository of Marp website.
   * [GitHub Discussions](https://github.com/orgs/marp-team/discussions) - The discussion forum about Marp ecosystem.
 * [Marpit framework](https://marpit.marp.app) - The skinny framework to create slides from Markdown.
   * [GitHub](https://github.com/marp-team/marpit) ⭐ 1,398 | 🐛 26 | 🌐 JavaScript | 📅 2026-11-01 - The GitHub repository of Marpit framework.
@@ -103,4 +103,4 @@ This section will list Marp-specific plugins.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-22._

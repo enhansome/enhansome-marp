@@ -21,7 +21,7 @@
                 "open_issues": 21,
                 "owner": "marp-team",
                 "repo": "marp-cli",
-                "stars": 3941,
+                "stars": 3945,
                 "topics": [
                   "cli",
                   "deck",
@@ -50,7 +50,7 @@
                 "open_issues": 13,
                 "owner": "marp-team",
                 "repo": "marp-vscode",
-                "stars": 2103,
+                "stars": 2104,
                 "topics": [
                   "markdown",
                   "marp",
@@ -109,7 +109,7 @@
                     "open_issues": 1,
                     "owner": "marp-team",
                     "repo": "marp",
-                    "stars": 12776,
+                    "stars": 12777,
                     "topics": [
                       "deck",
                       "markdown",
@@ -777,7 +777,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-21T20:31:52.743Z",
+    "last_updated": "2026-11-22T20:43:56.118Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to Marp",
