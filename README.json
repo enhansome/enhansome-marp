@@ -21,7 +21,7 @@
                 "open_issues": 21,
                 "owner": "marp-team",
                 "repo": "marp-cli",
-                "stars": 3952,
+                "stars": 3953,
                 "topics": [
                   "cli",
                   "deck",
@@ -50,7 +50,7 @@
                 "open_issues": 13,
                 "owner": "marp-team",
                 "repo": "marp-vscode",
-                "stars": 2105,
+                "stars": 2104,
                 "topics": [
                   "markdown",
                   "marp",
@@ -109,7 +109,7 @@
                     "open_issues": 1,
                     "owner": "marp-team",
                     "repo": "marp",
-                    "stars": 12789,
+                    "stars": 12793,
                     "topics": [
                       "deck",
                       "markdown",
@@ -177,7 +177,7 @@
                 "id": 82206054,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-11-25T14:43:09Z",
+                "last_commit": "2026-11-26T11:04:02Z",
                 "open_issues": 88,
                 "owner": "growilabs",
                 "repo": "growi",
@@ -323,7 +323,7 @@
                 "open_issues": 41,
                 "owner": "favourhong",
                 "repo": "Awesome-Marp",
-                "stars": 1063,
+                "stars": 1064,
                 "topics": [
                   "css",
                   "education",
@@ -599,7 +599,7 @@
             "open_issues": 22,
             "owner": "markdown-it",
             "repo": "markdown-it",
-            "stars": 22059,
+            "stars": 22063,
             "topics": [
               "commonmark",
               "javascript",
@@ -777,7 +777,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-25T23:05:48.713Z",
+    "last_updated": "2026-11-26T22:59:22.233Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to Marp",
